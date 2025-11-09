@@ -1,3 +1,5 @@
+bd37605 Add checkmarks to README
+5dceb19 Finish Task 2.4
 f268581 Finish Task 2.3
 b62e6d1 Finish Task 2.2
 e85a6bd Finish Task 2.1
